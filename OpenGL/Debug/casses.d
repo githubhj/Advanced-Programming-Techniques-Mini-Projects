@@ -1,0 +1,1 @@
+casses.d: ../casses.cpp
